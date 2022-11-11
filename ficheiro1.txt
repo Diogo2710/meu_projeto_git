@@ -2,6 +2,6 @@ Este é o exemplo de um ficheiro.
 
 Estou a fazer alterações ai ficheiro
 
+LTERAÇOES EFECTUADAS NO BRANCH "NOVAFEATURE"
 
-
-
+ALTERAÇÂO EM MASTER
